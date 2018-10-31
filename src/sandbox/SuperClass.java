@@ -1,5 +1,7 @@
 package sandbox;
 
+// I am not nice. I am above this superclass declaration
+
 class SuperClass {
   SuperClass(int x) {
     System.out.println("Super");
